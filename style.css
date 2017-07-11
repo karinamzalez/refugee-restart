@@ -15,3 +15,7 @@ h1 {
 h1 span {
   color: rgba(15, 113, 131, 0.77);
 }
+
+.bold {
+  font-style: bold;
+}

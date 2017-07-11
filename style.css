@@ -1,0 +1,7 @@
+.main-section {
+  background-image: url("images/minimalist.jpg");
+  display: table;
+  width: 100%;
+  height: 300px;
+  position: relative;
+}

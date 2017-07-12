@@ -15,6 +15,7 @@ body {
 .main-section h1 {
   text-align: center;
   color: white;
+  font-size: 70px;
 }
 
 .main-section h1 span {
@@ -64,7 +65,6 @@ p {
 
 .clear-bg > .section-content {
   background-color: white;
-  height: 500px;
   font-size: 24px;
 }
 

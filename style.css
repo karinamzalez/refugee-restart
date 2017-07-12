@@ -12,19 +12,12 @@ body {
   position: relative;
 }
 
-h1 {
-  color: white;
-  font-size: 70px;
-  text-align: center;
-  margin-top: 2em;
-}
-
-h1 span {
-  color: rgba(15, 113, 131, 0.77);
-}
-
-.bold {
-  font-style: bold;
+.title {
+  letter-spacing: 2px;
+  text-decoration: none;
+  border-bottom: 2px solid white;
+  text-transform: uppercase;
+  font-weight: 200;
 }
 
 .section {
